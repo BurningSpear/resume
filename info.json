@@ -1,0 +1,24 @@
+{
+    "name": "Frank Kigenyi",
+    "website": "https://burningspear.github.io/",
+    "linkedin": "https://www.linkedin.com/in/frankkigenyi/",
+    "github": "burningspear",
+    "email": "kigenyifrank@gmail.com",
+    "resume": "https://burningspear.github.io/assets/Kigenyi-Frank-Resume.pdf",
+    "proficientTechnologies": [
+        "SAP ABAP",
+        "SixSigma BlackBelt",
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+    ],
+    "otherSkills": [
+        "SAP Smart Data Services"
+    ]
+}
